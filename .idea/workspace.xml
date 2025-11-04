@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cac596-5735-40c1-842b-589bec964eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classesobjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscountCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multicatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +42,18 @@
   "keyToString": {
     "Application.Classesobjects.executor": "Run",
     "Application.DiscountCalculator.executor": "Run",
+    "Application.ExceptionExample.executor": "Run",
     "Application.ForLoopExample.executor": "Run",
     "Application.HelloWorld.executor": "Debug",
     "Application.IfExample.executor": "Run",
+    "Application.ListExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.Multicatch.executor": "Run",
+    "Application.ReduceExample.executor": "Run",
+    "Application.SetExample.executor": "Run",
+    "Application.StreamExample.executor": "Run",
+    "Application.SwitchExample.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
